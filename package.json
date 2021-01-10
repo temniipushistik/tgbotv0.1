@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "srvlight": "^1.0.2",
+    "tgmlight": "^1.0.2",
+    "toolslight": "^1.0.7"
+  }
+}
